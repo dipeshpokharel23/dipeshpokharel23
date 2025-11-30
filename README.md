@@ -37,7 +37,6 @@ _The University of Toledo College of Medicine & Life Sciences_
 
 ---
 
-## 📫 Connect with Me
 - **Website:** https://dipeshpokharel.my.canva.site/
 
 ---
