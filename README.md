@@ -6,7 +6,7 @@ _The University of Toledo College of Medicine & Life Sciences_
 ---
 
 ## 🧠 Research Interests
-- neuroscience & neurodegeneration 
+- Neuroscience & neurodegeneration 
 - Meta-analysis & reproducible research workflows  
 
 ---
