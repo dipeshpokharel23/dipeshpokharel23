@@ -1,11 +1,11 @@
-# Dipesh Pokharel  
+Dipesh Pokharel  
 
 Neuroscience Researcher | PhD Candidate | 
 _The University of Toledo College of Medicine & Life Sciences_
 
 ---
 
-## 🧠 Research Interests
+🧠 Research Interests
 - Neuroscience & neurodegeneration 
 - Meta-analysis & reproducible research workflows  
 
