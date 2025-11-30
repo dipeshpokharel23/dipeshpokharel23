@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dipesh Pokharel  
+# Dipesh Pokharel  
 
 **Neuroscience Researcher | PhD Candidate | 
 _The University of Toledo College of Medicine & Life Sciences_
