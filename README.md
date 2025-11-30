@@ -17,7 +17,7 @@ _The University of Toledo College of Medicine & Life Sciences_
 ---
 
 ## 📊 Skills & Tools
-**Languages:** R, Python, MATLAB, Bash  
+**Languages:** R, Python, MATLAB
 **Specialized:** ggplot2, tidyverse, metafor, metaprop, scikit-learn  
 **Other:** PRISMA, meta-analysis, GraphPad Prism, Git, Linux, LaTeX  
 
