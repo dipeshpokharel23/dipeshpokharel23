@@ -1,6 +1,6 @@
 # Dipesh Pokharel  
 
-**Neuroscience Researcher | PhD Candidate | 
+Neuroscience Researcher | PhD Candidate | 
 _The University of Toledo College of Medicine & Life Sciences_
 
 ---
