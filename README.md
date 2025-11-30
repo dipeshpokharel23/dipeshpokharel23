@@ -38,9 +38,6 @@ _The University of Toledo College of Medicine & Life Sciences_
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/dipeshpokharel  
-- **ResearchGate:** https://www.researchgate.net/profile/Dipesh-Pokharel-2  
-- **Twitter/X:** @dipesh_neuro  
 - **Website:** https://dipeshpokharel.my.canva.site/
 
 ---
